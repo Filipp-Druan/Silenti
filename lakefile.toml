@@ -1,0 +1,10 @@
+name = "Silenti"
+version = "0.1.0"
+defaultTargets = ["silenti"]
+
+[[lean_lib]]
+name = "Silenti"
+
+[[lean_exe]]
+name = "silenti"
+root = "Main"
